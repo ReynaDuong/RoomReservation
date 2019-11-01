@@ -1,4 +1,4 @@
-package com.minhduong.data.webservice;
+package com.minhduong.web.application;
 
 
 import com.minhduong.data.entity.Room;
