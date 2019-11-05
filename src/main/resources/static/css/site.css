@@ -1,6 +1,22 @@
+html{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 body{
-    padding-top: 70px;
-    padding-bottom: 60px;
+    font-size: 12pt;
+    font-family: 'Lora', serif;
+    padding: 2em 1em;
+}
+
+.header{
+    text-align: center;
+}
+
+.header p{
+    font-family: 'Lora', serif;
+    font-style: italic;
 }
 
 footer{
