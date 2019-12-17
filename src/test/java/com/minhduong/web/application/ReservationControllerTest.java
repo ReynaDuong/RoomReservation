@@ -2,7 +2,7 @@ package com.minhduong.web.application;
 
 import com.minhduong.business.domain.RoomReservation;
 import com.minhduong.business.service.ReservationService;
-import org.junit.Test;
+import org.junit.*;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
